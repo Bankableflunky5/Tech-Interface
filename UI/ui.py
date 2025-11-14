@@ -480,9 +480,7 @@ def main_menu_page(parent, username ="User"):
 
     name_box = QVBoxLayout()
     username = getattr(parent, "username", "User")
-    if username.lower() == "david":
-        role = "CEO"
-    else: role = getattr(parent, "role", "Technician")
+    role = "User Role"  # Replace with actual role retrieval if available
 
     name_label = QLabel(f"Welcome, {username}")
     name_label.setObjectName("profileName")

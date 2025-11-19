@@ -27,7 +27,7 @@ It connects directly to the MariaDB database over a secure SSL connection.
 
 ## Note
 
-This desktop technician interface is designed to work seamlessly with the TechRepair Booking Form system:
+This desktop technician interface is designed to work with the TechRepair Booking Form system:
 
 Booking Portal Repository:
 https://github.com/Bankableflunky5/Booking-in-Form

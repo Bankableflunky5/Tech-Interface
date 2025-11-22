@@ -1,4 +1,4 @@
-# 🖥️ DBDoc Desktop GUI – Technician Interface
+# DBDoc Desktop GUI – Technician Interface
 
 <p align="center">
   <img src="Screenshots/DBDoc.gif" width="800" alt="DBDoc Desktop Interface Preview" />
